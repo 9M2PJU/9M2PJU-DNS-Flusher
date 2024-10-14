@@ -2,7 +2,8 @@
 
 echo.
 TITLE 9M2PJU DNS Flusher
-
+echo.    
+echo.
 echo dP""Yb 8b    d8 oP"Yb. 88""Yb  88888 88   88 
 echo Ybood8 88b  d88 "' dP' 88__dP     88 88   88 
 echo   .8P' 88YbdP88   dP'  88"""  o.  88 Y8   8P 
