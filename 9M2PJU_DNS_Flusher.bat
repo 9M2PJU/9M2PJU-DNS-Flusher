@@ -1,6 +1,10 @@
 @echo off
 
 echo.
+echo Welcome to the 9M2PJU DNS Flusher Installer!
+echo This tool will help you easily flush your DNS cache.
+echo Please wait while we set everything up...
+echo.
 TITLE 9M2PJU DNS Flusher
 
 echo dP""Yb 8b    d8 oP"Yb. 88""Yb  88888 88   88 
@@ -10,6 +14,7 @@ echo  .dP'  88 YY 88 .d8888 88     "bodP' `YbodP'
 echo.    
 echo.
 echo  Installing 9M2PJU DNS Flusher to Startup folder...
+
 timeout /t 3 /nobreak  > nul 
 
 cd /D "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\" 
