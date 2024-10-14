@@ -19,15 +19,9 @@ To install the 9M2PJU DNS Flusher, follow these steps:
    - Add the DNS flusher to your Windows Startup folder.
    - Display a confirmation message upon completion.
 
-```batch
-@echo off
-TITLE 9M2PJU DNS Flusher
-...
-```
-
 ## Usage
 
-After installation, the DNS Flusher will run automatically each time your computer starts. You can manually trigger the flush by running the script from the Startup folder if needed.
+After installation, the DNS Flusher will run automatically each time your computer starts.
 
 ## Customization
 
